@@ -13,6 +13,8 @@
   - zip
 - functions
 - classes
+  - _ and __
+  - inheritence
 
 # debugging
 - assert
