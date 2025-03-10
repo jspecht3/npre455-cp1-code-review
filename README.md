@@ -1,6 +1,3 @@
-# Todo
-- math
-
 # python overview
 - classes
   - _ and __
@@ -17,5 +14,4 @@
 - linspace
 - arange
 
-## matplotlib
 ## scipy
