@@ -1,8 +1,3 @@
-# python overview
-- classes
-  - _ and __
-  - inheritence
-
 # debugging
 - assert
 - units tests
@@ -15,3 +10,4 @@
 - arange
 
 ## scipy
+## sympy
